@@ -38,16 +38,16 @@ The following are the deliverables of this project:
 
 ## 📺 Demo
 
-- Authentication.
+
 https://github.com/myselfmohdsameer/Google-Summer-of-Code-2023/assets/103677131/7ea560d2-a8e9-4413-a42c-626491159f00
 
-- Creating a New Board.
+
 https://github.com/myselfmohdsameer/Google-Summer-of-Code-2023/assets/103677131/6661b05b-72ac-43b7-b513-6ee8d749a0f9
 
-- Getting Boards.
+
 https://github.com/myselfmohdsameer/Google-Summer-of-Code-2023/assets/103677131/28de329a-314d-4228-8b8e-ca305a186b48
 
-- Managing Boards.
+
 https://github.com/myselfmohdsameer/Google-Summer-of-Code-2023/assets/103677131/f196f354-37a4-42e7-b39a-a55eec4316bb
 
 
